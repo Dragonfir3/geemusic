@@ -1,3 +1,4 @@
+pip==9.0.3
 aniso8601==1.2.1
 appdirs==1.4.3
 argcomplete==1.9.2
